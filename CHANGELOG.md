@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-13)
+## Unreleased (2026-04-10)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`167cf51`](https://github.com/stdlib-js/stdlib/commit/167cf5158bb75d433dcc7dc49df9d98d97496b8e) - **chore:** remove unused rand_double helper in `stats/strided/dmaxabssorted` [(#10180)](https://github.com/stdlib-js/stdlib/pull/10180) _(by Om-A-osc, Athan Reines, stdlib-bot)_
 -   [`41e2b32`](https://github.com/stdlib-js/stdlib/commit/41e2b321ee542ca7774071f7cf0f437a7d814be6) - **bench:** restore benchmark names _(by Philipp Burckhardt)_
 -   [`69ec0a7`](https://github.com/stdlib-js/stdlib/commit/69ec0a7b9516f20a218f32f6e2c9824f12a21695) - **bench:** use string interpolation in `stats/strided/dmaxabssorted` [(#10181)](https://github.com/stdlib-js/stdlib/pull/10181) _(by Om-A-osc)_
 
@@ -25,8 +26,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Om-A-osc
 -   Philipp Burckhardt
 
